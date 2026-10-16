@@ -11,7 +11,7 @@ A beautiful web app that spins random research topics from 1248+ topics across 1
 - Modern dark UI with animated video background
 
 ## Live Demo
-https://sakibhasan286116.github.io/topic-spinner/
+https://sakibhasan286116.github.io/Topicspinner/
 
 ## Made by
 Sakib
